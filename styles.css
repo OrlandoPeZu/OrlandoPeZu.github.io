@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(344, 76%, 62%);
+}
+
+.container {
+ padding-top: 100px;
+   align-items: center;
+   align-items: center;
+   text-align: center;
+
+}
+
+.picture img {
+    width: 300px;
+    border-radius: 8px ;
+    border: 3px #d8d8d8 solid;
+    box-shadow: 1 2 10px rgba(0,0,0, 0.5);
+}
+
+h2 {
+    color: #d8d8d8;
+}
+
+button {
+    color: #d8d8d8;
+    background-color:  hsl(334, 86%, 73%) ;
+    width: 50px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.si {
+    transform: translate(-60px,0);
+}
+
+#noBtn {
+position: absolute;
+}
